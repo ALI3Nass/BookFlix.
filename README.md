@@ -10,4 +10,11 @@ In addition, Bookflix provides a secure payment system that ensures that transac
 Bookflix is a great resource for students who want to save money on textbooks and earn money by selling their used books. With its user-friendly interface and secure payment system, Bookflix makes buying and selling textbooks easy, convenient, and hassle-free.
 
 
-#### Please extract the font zip and place the fonts outside the Fonts folder into the BookFlix folder
+
+### How to run this Laravel Project on your local machine
+First extract the Bookflix.zip file
+
+#### cd BookFlix
+#### php artisan serve
+
+now go to your browser and type 127.0.0.1:8000
