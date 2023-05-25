@@ -18,3 +18,10 @@ First extract the Bookflix.zip file
 #### php artisan serve
 
 now go to your browser and type 127.0.0.1:8000
+
+
+
+## The other way to have a look at my project is by just downloading the 'demo.webm' file and playing it into your browser(recommended) or in your local machine Media player(some media players might not support this format)
+
+
+# ASTROPHILESZZ
