@@ -12,12 +12,16 @@ Bookflix is a great resource for students who want to save money on textbooks an
 
 
 ### How to run this Laravel Project on your local machine
-First extract the Bookflix.zip file
 
-#### cd BookFlix
-#### php artisan serve
+* First extract the Bookflix.zip or bookflix.7z
 
-now go to your browser and type 127.0.0.1:8000
+* There are actually two versions of project bookflix.zip and bookflix.7z
+
+#### * cd BookFlix
+
+#### * php artisan serve
+
+* now go to your browser and type 127.0.0.1:8000
 
 
 
