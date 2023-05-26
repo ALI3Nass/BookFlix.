@@ -1,4 +1,9 @@
-# Bookflix
+# BookFlix 
+
+
+# [ A semester web project in Laravel by ASTROPHILEZZ ]
+
+
 ## A web platform designed to facilitate the exchange of books among students at your university. This platform allows students to sell/buy books to/from other students.
 
 Bookflix is a web platform designed to help students at your university buy and sell textbooks. The platform provides a convenient and easy-to-use interface that allows students to upload their used books and sell them to other students at a fair price. Bookflix also makes it easy for students to browse the selection of books available for purchase and find the books they need for their studies.
@@ -17,9 +22,9 @@ Bookflix is a great resource for students who want to save money on textbooks an
 
 * There are actually two versions of project bookflix.zip and bookflix.7z
 
-#### * cd BookFlix
+* #### cd BookFlix
 
-#### * php artisan serve
+* #### php artisan serve
 
 * now go to your browser and type 127.0.0.1:8000
 
